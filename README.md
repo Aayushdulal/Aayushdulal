@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Aayushdulal/Aayushdulal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Aayush Dulal! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Engineering Student
+- 💡 Interested in Web Development, AI, and Machine Learning
+- 🎸 Metalhead | Rock & Roll fan 🤘
+- 🌱 Currently learning Django & JavaScript (MERN Stack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- 💻 GitHub: https://github.com/Aayushdulal
+- 📝 linkedin:https://www.linkedin.com/in/aayush-dulal-a624b033b/
+- 📩 Email: dulalaayush56@gmail.com
